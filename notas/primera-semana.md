@@ -29,3 +29,15 @@ El funcionamiento del agente se ve como
 
 $\text{preprocesamiento} \rightarrow \text{Funcion de agente}
 \rightarrow \text{post procesamiento}$
+
+## Costo
+
+El costo lo asignamos nosotros, y muchas veces puede ser la parte mas dificil
+
+## Pequena Introduccion al aprendizaje maquina
+
+> [!NOTE]
+> Siempre que existen soluciones para un problema que,
+> no usan aprendizaje maquina, las preferimos, ya que el
+> aprendizaje maquina se basa en reglas inductivas, y
+> estas nunca van a ser verdaderas.
